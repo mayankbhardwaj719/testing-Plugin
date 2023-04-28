@@ -1,0 +1,23 @@
+{
+  "name": "testing-plugin",
+  "version": "1.0.0",
+  "description": "testing plugin for virtual labs extension made changes to see if this works",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayankbhardwaj719/testing-Plugin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mayankbhardwaj719/testing-Plugin/issues"
+  },
+  "homepage": "https://github.com/mayankbhardwaj719/testing-Plugin#readme",
+  "dependencies": {
+    "vlabs-buildexp": "^3.0.5"
+  }
+}
